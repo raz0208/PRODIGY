@@ -7,6 +7,7 @@ This repository documents are for Task 1 of my internship journey, focusing on d
 ## Task Overview
 
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the disctribution of ages or genders in a population.
+I used population dataset from Data Bank website. The link to access the dadaset: https://data.worldbank.org/indicator/SP.POP.TOTL
 
 ## Knowledge Gained
 
